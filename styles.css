@@ -1,0 +1,15 @@
+*{box-sizing: border-box;}
+html, body
+
+{
+	background: #FABB90;
+	font-family: Arial, Helvetica;
+	margin: 100;
+	padding: 100;
+}
+
+@media (min-width: 700px)
+{
+body {padding: 2rem; }
+form {max-width: 600px; }
+}
